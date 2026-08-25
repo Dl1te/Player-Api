@@ -1,0 +1,38 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Переменные окружения (СЕКРЕТЫ!)
+.env
+.env.*
+*.env
+
+# Базы данных
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+logs/
+
+# Файлы данных
+*.json
+*.csv
+
+# Системные файлы
+.DS_Store
+Thumbs.db
